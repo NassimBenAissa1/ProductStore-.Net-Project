@@ -1,0 +1,29 @@
+@model IEnumerable<PS.Domain.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+
+<fieldset>
+    <legend>Search By:</legend>
+    <form asp-action="index">
+        <label for="filter">Filter</label>
+        <input type="text" name="filter" />
+        <input type="submit" value="Search" />
+    </form>
+</fieldset>
+
+<p>
+    <a asp-action="Create">Create New</a>
+
+</p>
+
+@foreach (var item in Model)
+{
+  @Html.Partial("_PartialDetails", item);
+
+}

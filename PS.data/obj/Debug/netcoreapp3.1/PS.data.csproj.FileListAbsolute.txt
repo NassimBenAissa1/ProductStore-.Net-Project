@@ -1,0 +1,80 @@
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.deps.json
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.json
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.dev.json
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.AssemblyReference.cache
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfoInputs.cache
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfo.cs
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CoreCompileInputs.cache
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CopyComplete
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.genruntimeconfig.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.deps.json
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.json
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.dev.json
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.AssemblyReference.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfoInputs.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfo.cs
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CoreCompileInputs.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CopyComplete
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.genruntimeconfig.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.deps.json
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.json
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.dev.json
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.AssemblyReference.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfoInputs.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfo.cs
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CoreCompileInputs.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CopyComplete
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.genruntimeconfig.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.deps.json
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.json
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.dev.json
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.AssemblyReference.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfoInputs.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfo.cs
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CoreCompileInputs.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CopyComplete
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.genruntimeconfig.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.deps.json
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.json
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.runtimeconfig.dev.json
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.AssemblyReference.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfoInputs.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.AssemblyInfo.cs
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CoreCompileInputs.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.csproj.CopyComplete
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.dll
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.pdb
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.data\obj\Debug\netcoreapp3.1\PS.data.genruntimeconfig.cache

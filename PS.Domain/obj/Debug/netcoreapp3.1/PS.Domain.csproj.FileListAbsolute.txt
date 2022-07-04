@@ -1,0 +1,70 @@
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Alaa\Downloads\Compressed\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\Files\Projet4eme\.net\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Morning Beautiful\Desktop\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Timelec\Downloads\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\Downloads\SuiviSéance25_04_2022\ProductStoreTWIN2\ProductStoreTWIN2\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
